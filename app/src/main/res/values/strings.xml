@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Time Sayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_talker">Time Talker</string>
+    <string name="my_activities">My Activities</string>
+    <string name="no_activity_added">No Activity Added</string>
+    <string name="what_would_you_like_to_hear">What would you like to hear?</string>
+    <string name="title">Title</string>
+    <string name="when_you_like_to_hear_it">When you like to hear it?</string>
+    <string name="time">Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
